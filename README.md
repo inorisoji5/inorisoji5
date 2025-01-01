@@ -48,7 +48,7 @@ I thrive on solving complex problems, automating workflows, and enhancing applic
 ---
 
 ## 📫 Let’s Connect!  
-I’m always open to collaborating on innovative projects in cybersecurity, software development, and ethical hacking.  
+I’m always open to collaborating on innovative projects in cybersecurity, software development, and white hat.  
 - Email: krotg@yahoo.com  
 - Telegram: [@c3ryptogod](https://t.me/c3ryptogod) 
 
