@@ -5,7 +5,7 @@ I’m a passionate software engineer and white hat specializing in cybersecurity
 I thrive on solving complex problems, automating workflows, and enhancing application security.  
 
 ## 🚀 About Me  
-- 🔒 Cybersecurity Enthusiast: Skilled in ethical hacking, vulnerability assessment, and malware analysis.  
+- 🔒 Cybersecurity Enthusiast: Skilled in white hat hacking, vulnerability assessment, and malware analysis.  
 - 🛠️ Problem Solver: Adept at building tools for vulnerability scanning and secure system design.  
 - 🌱 Currently Learning: Reverse engineering, advanced malware analysis, and algorithm design.  
 
