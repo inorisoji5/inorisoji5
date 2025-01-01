@@ -1,7 +1,7 @@
-# 💻 Software Engineer | Python & C++ Developer | Ethical Hacker  
+# 💻 Software Engineer | Python & C++ Developer 
 
 Hi, I'm Inori! 👋  
-I’m a passionate software engineer and ethical hacker specializing in cybersecurity, malware analysis, and system optimization.  
+I’m a passionate software engineer and white hat specializing in cybersecurity, malware analysis, and system optimization.  
 I thrive on solving complex problems, automating workflows, and enhancing application security.  
 
 ## 🚀 About Me  
