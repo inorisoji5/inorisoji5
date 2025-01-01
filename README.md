@@ -1,13 +1,19 @@
 # 💻 Software Engineer | Python & C++ Developer 
 
+---
+
 Hi, I'm Inori! 👋  
 I’m a passionate software engineer and white hat specializing in cybersecurity, malware analysis, and system optimization.  
 I thrive on solving complex problems, automating workflows, and enhancing application security.  
+
+---
 
 ## 🚀 About Me  
 - 🔒 Cybersecurity Enthusiast: Skilled in white hat hacking, vulnerability assessment, and malware analysis.  
 - 🛠️ Problem Solver: Adept at building tools for vulnerability scanning and secure system design.  
 - 🌱 Currently Learning: Reverse engineering, advanced malware analysis, and algorithm design.  
+
+---
 
 ## 🛠️ Key Skills  
 
@@ -32,10 +38,14 @@ I thrive on solving complex problems, automating workflows, and enhancing applic
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
+---
+
 ## 🖥️ Projects  
 - Vulnerability Scanner: Python-based tool automating vulnerability scans with OWASP ZAP, featuring custom rule sets and real-time reporting.  
 - Malware Analyzer: C++ application for analyzing suspicious files, extracting metadata, and detecting threats.  
 - Workflow Automation Script: Automated deployment pipelines and security checks using GitHub Actions and Docker, reducing deployment time by 50%.  
+
+---
 
 ## 📫 Let’s Connect!  
 I’m always open to collaborating on innovative projects in cybersecurity, software development, and ethical hacking.  
