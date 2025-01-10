@@ -19,58 +19,58 @@ Hi, I'm Inori!
   <!-- Languages Section -->
   <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Languages</h2>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="57" style="margin-right: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="47" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="57" style="margin-right: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="47" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" style="margin-right: 10px;">
   </a>
 
   <!-- Cybersecurity Tools Section -->
   <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Cybersecurity Tools</h2>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" width="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" width="40" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap-by-checkmarx.png" alt = "OWASP ZAP" width="140" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap-by-checkmarx.png" alt = "OWASP ZAP" width="130" style="margin-right: 10px;">
   </a>
 
   <!-- Development Tools Section -->
   <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Development Tools</h2>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="110" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="100" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio" width="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio" width="40" style="margin-right: 10px;">
   </a>
    <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" width="55" style="margin-right: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" width="45" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="180" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="170" style="margin-right: 10px;">
   </a>
 
   <!-- Data Skills Section -->
   <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Data Skills</h2>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="Apache Kafka" width="70" style="margin-right: 10px;">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="Apache Kafka" width="60" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="SQL" width="90" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="SQL" width="80" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="140" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="130" style="margin-right: 10px;">
   </a>
   <a style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="150" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="140" style="margin-right: 10px;">
   </a>
 </div>
 
