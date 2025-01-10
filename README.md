@@ -15,26 +15,64 @@ Hi, I'm Inori!
 
 ## 🛠️ Key Skills  
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+<div style="font-family: Arial, sans-serif; background-color: #1E1E1E; color: #FFFFFF; padding: 20px;">
+  <!-- Languages Section -->
+  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Languages</h2>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="57" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="57" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin-right: 10px;">
+  </a>
 
-### Cybersecurity Tools  
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF4C4C?style=for-the-badge&logo=owasp&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+  <!-- Cybersecurity Tools Section -->
+  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Cybersecurity Tools</h2>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" width="50" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="50" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap-by-checkmarx.png" alt = "OWASP ZAP" width="140" style="margin-right: 10px;">
+  </a>
 
-### Development Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+  <!-- Development Tools Section -->
+  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Development Tools</h2>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="110" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio" width="50" style="margin-right: 10px;">
+  </a>
+   <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" width="55" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="180" style="margin-right: 10px;">
+  </a>
 
-### Data Skills  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+  <!-- Data Skills Section -->
+  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px;">Data Skills</h2>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="Apache Kafka" width="70" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="SQL" width="90" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="140" style="margin-right: 10px;">
+  </a>
+  <a style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="150" style="margin-right: 10px;">
+  </a>
+</div>
 
 ---
 
