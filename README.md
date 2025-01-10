@@ -1,22 +1,18 @@
-# 💻 Software Engineer | Python & C++ Developer 
-
----
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/ru/7/7e/Hellokitty_b1.png" width="30" alt="Kitty Icon">
-  <span style="font-size: 18px; margin: 0 10px;">Hi, I'm Inori!</span>
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/323/small_2x/cute-kitty-cat-sleeping-lazy-cartoon-element-free-png.png" width="30" alt="Kitty Icon">
-</div>
+# <img src="https://static.vecteezy.com/system/resources/thumbnails/011/894/044/small_2x/halloween-symbol-icon-png.png" width="30" alt="Spider"> Software Engineer | Python & C++ Developer
 
 ---
 
-## 🚀 About Me  
-- 🔒 Cybersecurity Enthusiast: Skilled in white hat hacking, vulnerability assessment, and malware analysis.  
-- 🛠️ Problem Solver: Adept at building tools for vulnerability scanning and secure system design.  
-- 🌱 Currently Learning: Reverse engineering, advanced malware analysis, and algorithm design.  
+Hi, I'm Inori
 
 ---
 
-## 🛠️ Key Skills  
+## <img src="https://static.vecteezy.com/system/resources/thumbnails/011/894/044/small_2x/halloween-symbol-icon-png.png" width="20" alt="Spider"> About Me  
+-   <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/319/small_2x/cute-kitty-cat-in-coffee-mug-cartoon-element-png.png" width="20" alt="Kitty Icon"> Cybersecurity Enthusiast: Skilled in white hat hacking, vulnerability assessment, and malware analysis.  
+-    <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/318/small_2x/cute-kitty-cat-in-coffee-mug-cartoon-element-png.png" width="20" alt="Kitty Icon">  Problem Solver: Adept at building tools for vulnerability scanning and secure system design.  
+-   <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/317/small_2x/cute-kitty-cat-in-coffee-mug-cartoon-element-free-png.png" width="20" alt="Kitty Icon"> Currently Learning: Reverse engineering, advanced malware analysis, and algorithm design.  
+
+---
+
 
 <div style="font-family: Arial, sans-serif; background-color: #1E1E1E; color: #FFFFFF; padding: 20px;">
   <!-- Languages Section -->
@@ -79,14 +75,14 @@
 
 ---
 
-## 🖥️ Projects  
+## <img src="https://static.vecteezy.com/system/resources/thumbnails/011/894/044/small_2x/halloween-symbol-icon-png.png" width="20" alt="Spider"> Projects  
 - Vulnerability Scanner: Python-based tool automating vulnerability scans with OWASP ZAP, featuring custom rule sets and real-time reporting.  
 - Malware Analyzer: C++ application for analyzing suspicious files, extracting metadata, and detecting threats.  
 - Workflow Automation Script: Automated deployment pipelines and security checks using GitHub Actions and Docker, reducing deployment time by 50%.  
 
 ---
 
-## 📫 Let’s Connect!  
+## <img src="https://static.vecteezy.com/system/resources/thumbnails/011/894/044/small_2x/halloween-symbol-icon-png.png" width="20" alt="Spider"> Let’s Connect! <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/323/small_2x/cute-kitty-cat-sleeping-lazy-cartoon-element-free-png.png" width="30" alt="Kitty Icon">
 I’m always open to collaborating on innovative projects in cybersecurity, software development, and white hat.  
 - Email: krotg@yahoo.com  
 - Telegram: [@c3ryptogod](https://t.me/c3ryptogod) 
