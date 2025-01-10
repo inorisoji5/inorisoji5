@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I'm Inori! 👋  
+Hi, I'm Inori! 
 
 ---
 
