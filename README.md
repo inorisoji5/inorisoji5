@@ -1,8 +1,11 @@
 # 💻 Software Engineer | Python & C++ Developer 
 
 ---
-
-Hi, I'm Inori! 
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/ru/7/7e/Hellokitty_b1.png" width="30" alt="Kitty Icon">
+  <span style="font-size: 18px; margin: 0 10px;">Hi, I'm Inori!</span>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/009/665/323/small_2x/cute-kitty-cat-sleeping-lazy-cartoon-element-free-png.png" width="30" alt="Kitty Icon">
+</div>
 
 ---
 
